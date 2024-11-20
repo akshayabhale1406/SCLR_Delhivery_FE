@@ -19,3 +19,8 @@ df["trip_creation_time"] = pd.to_datetime(df["trip_creation_time"])
 
 df["od_start_time"] = pd.to_datetime(df["od_start_time"])
 df["od_end_time"] = pd.to_datetime(df["od_end_time"])
+
+
+df = df.isnull().sum()
+
+df = df.dropna(how = "any")
