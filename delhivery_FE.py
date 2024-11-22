@@ -24,3 +24,5 @@ df["od_end_time"] = pd.to_datetime(df["od_end_time"])
 df = df.isnull().sum()
 
 df = df.dropna(how = "any")
+
+groupy by order id, any( lambda x : x)) 
