@@ -26,3 +26,5 @@ df = df.isnull().sum()
 df = df.dropna(how = "any")
 
 groupy by order id, any( lambda x : x)) 
+
+difference between osrm and actual delivery time. 
