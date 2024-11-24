@@ -31,6 +31,8 @@ difference between osrm and actual delivery time.
 
 difference between actual delivery time and actual osrm time.
 
+create dictionary for a dataframe creation with relevant information for a particular study
+
 hyptoythesis testing
 
 
