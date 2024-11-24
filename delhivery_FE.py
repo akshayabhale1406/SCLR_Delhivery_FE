@@ -29,6 +29,8 @@ groupy by order id, any( lambda x : x))
 
 difference between osrm and actual delivery time. 
 
+difference between actual delivery time and actual osrm time.
+
 hyptoythesis testing
 
 
