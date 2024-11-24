@@ -33,6 +33,8 @@ difference between actual delivery time and actual osrm time.
 
 create dictionary for a dataframe creation with relevant information for a particular study
 
+>> check the functions/string used for agg() function. use the strings first and last for specifying start and end of a check-point.
+
 hyptoythesis testing
 
 
