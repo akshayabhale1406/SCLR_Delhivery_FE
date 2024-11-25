@@ -37,6 +37,8 @@ create dictionary for a dataframe creation with relevant information for a parti
 
 hyptoythesis testing
 
+z score - finding and eliminating/capping outliers for normally distributed data. 
+
 
 
 
