@@ -42,4 +42,6 @@ z score - finding and eliminating/capping outliers for normally distributed data
 standardization and normalization of data. 
 
 
+  
+
 
