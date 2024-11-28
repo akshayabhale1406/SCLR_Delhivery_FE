@@ -41,7 +41,7 @@ z score - finding and eliminating/capping outliers for normally distributed data
 
 standardization and normalization of data. 
 
-
+Create a dataframe with required columns for a particular study
   
 
 
