@@ -52,3 +52,6 @@ check problem description on Scaler
 update time error table. 
 
 remove outliers and calculate the mean of the time error. 
+
+plot a graph of means and see the kind of distribution. 
+
