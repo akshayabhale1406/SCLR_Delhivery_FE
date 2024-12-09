@@ -49,3 +49,6 @@ Create a dataframe with required columns for a particular study
   
 check problem description on Scaler
 
+update time error table. 
+
+remove outliers and calculate the mean of the time error. 
